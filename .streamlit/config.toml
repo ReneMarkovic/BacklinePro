@@ -1,0 +1,6 @@
+[theme]
+base = "light"
+
+[server]
+# Raise if you plan to upload large Excel files; default is 200 MB.
+maxUploadSize = 500
